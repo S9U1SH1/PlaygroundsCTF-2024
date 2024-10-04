@@ -1,0 +1,7 @@
+Do you know what does SGA mean?
+
+Hint : this chall supposed to be a strings challenge but there is a trick here, so try seeing the options of the strings
+
+strings --help
+
+or there is another way to see the data without decompiling?
